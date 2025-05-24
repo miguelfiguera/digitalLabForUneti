@@ -25,7 +25,7 @@ Esta es una página de aterrizaje informativa sencilla para Digital Lab, constru
 
 ## Visión General
 
-- **Sitio Web:** [thedigitallab.dev](https://thedigitallab.dev)
+- **Sitio Web:** The Digital Lab
 - **Propósito:** Proporcionar información sobre Digital Lab e incentivar a los clientes potenciales a contactarlos.
 - **Stack Tecnológico:**
   - [Next.js](https://nextjs.org/) (Framework de React)
