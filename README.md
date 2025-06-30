@@ -33,8 +33,6 @@ Esta es una página de aterrizaje informativa sencilla para Digital Lab, constru
   - [Tailwind CSS](https://tailwindcss.com/) (Framework de CSS)
   - [Radix UI](https://www.radix-ui.com/) (Librería de Componentes de Interfaz de Usuario)
   - [Lucide React](https://lucide.dev/) (Íconos)
-  - [Formspree](https://formspree.io/) (Manejo de Formularios)
-  - [Zod](https://zod.dev/) (Validación de Esquemas)
   - [Netlify](https://www.netlify.com/) (Despliegue)
 
 ## Características
