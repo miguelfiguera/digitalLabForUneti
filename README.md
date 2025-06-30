@@ -114,6 +114,7 @@ Esta es una página de aterrizaje informativa sencilla para Digital Lab, constru
 
 ## Estructura de Carpetas
 
+```
 Digital Lab/
 ├── .next/ # Salida del build de Next.js
 ├── app/ # Directorio de la aplicación Next.js (páginas, componentes, etc.)
@@ -125,7 +126,7 @@ Digital Lab/
 ├── package.json # Dependencias y scripts del proyecto
 ├── README.md # Este archivo
 └── ...
-
+```
 ## Contribución
 
 ¡Las contribuciones son bienvenidas! Por favor, sigue estos pasos:
